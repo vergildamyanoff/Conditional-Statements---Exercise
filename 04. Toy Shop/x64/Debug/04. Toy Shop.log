@@ -1,0 +1,6 @@
+﻿  04. Toy Shop.cpp
+D:\C++\Conditional Statements - Exercise\04. Toy Shop\04. Toy Shop.cpp(12,19): error C2065: 'puzzelsPrice': undeclared identifier
+D:\C++\Conditional Statements - Exercise\04. Toy Shop\04. Toy Shop.cpp(14,9): error C2371: 'allSells': redefinition; different basic types
+D:\C++\Conditional Statements - Exercise\04. Toy Shop\04. Toy Shop.cpp(10): message : see declaration of 'allSells'
+D:\C++\Conditional Statements - Exercise\04. Toy Shop\04. Toy Shop.cpp(14,20): error C2065: 'puzzelsPrice': undeclared identifier
+D:\C++\Conditional Statements - Exercise\04. Toy Shop\04. Toy Shop.cpp(18,24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data

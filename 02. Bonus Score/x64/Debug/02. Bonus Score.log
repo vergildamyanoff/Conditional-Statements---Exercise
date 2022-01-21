@@ -1,0 +1,2 @@
+﻿  02. Bonus Score.cpp
+D:\C++\Conditional Statements - Exercise\02. Bonus Score\02. Bonus Score.cpp(13): error C4700: uninitialized local variable 'bonusScore' used

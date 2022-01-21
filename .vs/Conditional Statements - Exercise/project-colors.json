@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f68dfd9-c78f-4012-9a82-09103a17ae23": {
+      "ProjectGuid": "5f68dfd9-c78f-4012-9a82-09103a17ae23",
+      "DisplayName": "Conditional Statements - Exercise",
+      "ColorIndex": 0
+    },
+    "d7c904fb-dc0f-43a1-b453-92b243756e38": {
+      "ProjectGuid": "d7c904fb-dc0f-43a1-b453-92b243756e38",
+      "DisplayName": "02. Bonus Score",
+      "ColorIndex": 1
+    },
+    "376376cc-b5ae-4530-aa81-7d6428655f63": {
+      "ProjectGuid": "376376cc-b5ae-4530-aa81-7d6428655f63",
+      "DisplayName": "03. Time + 15 Minutes",
+      "ColorIndex": 2
+    },
+    "8c46f332-f354-4ebe-b4f6-8827cd47b2b6": {
+      "ProjectGuid": "8c46f332-f354-4ebe-b4f6-8827cd47b2b6",
+      "DisplayName": "04. Toy Shop",
+      "ColorIndex": 3
+    },
+    "e7e582b6-1120-44ed-8091-7617a10d6355": {
+      "ProjectGuid": "e7e582b6-1120-44ed-8091-7617a10d6355",
+      "DisplayName": "05. Godzilla vs. Kong",
+      "ColorIndex": 4
+    },
+    "3d952b68-e7b6-4fe4-80c2-bbc8e6eb400b": {
+      "ProjectGuid": "3d952b68-e7b6-4fe4-80c2-bbc8e6eb400b",
+      "DisplayName": "06. World Swimming Record",
+      "ColorIndex": 5
+    },
+    "e6f65dea-c6b1-4f2e-b821-ee2fe30dbed1": {
+      "ProjectGuid": "e6f65dea-c6b1-4f2e-b821-ee2fe30dbed1",
+      "DisplayName": "07. Shopping",
+      "ColorIndex": 6
+    },
+    "43a6f699-1fe2-48df-a50e-9911068fd657": {
+      "ProjectGuid": "43a6f699-1fe2-48df-a50e-9911068fd657",
+      "DisplayName": "08. Lunch Break",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3c209239-b328-4f1f-a771-cd1654ceb1dc": {
+      "ProjectGuid": "3c209239-b328-4f1f-a771-cd1654ceb1dc",
+      "DisplayName": "01. Sum Seconds",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
