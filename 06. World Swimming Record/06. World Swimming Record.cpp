@@ -11,9 +11,9 @@ int main()
 
     double allDistanceInSecond = distanceInM * timeForDistanceInM;
 
-    double wastеSeconds = floor(distanceInM / 15) * 12.5;
+    double wasteSeconds = floor(distanceInM / 15) * 12.5;
 
-    double allTime = allDistanceInSecond + wastеSeconds;
+    double allTime = allDistanceInSecond + wasteSeconds;
 
     double difference = allTime - worldRecord;
 
@@ -22,11 +22,11 @@ int main()
 
     if (worldRecord > allTime)
     {
-        cout << "Yes, he succeeded!The new world record is " << allTime << " seconds." << endl;
+        cout << "Yes, he succeeded! The new world record is " << allTime << " seconds." << endl;
     }
     else
     {
-        cout << "No, he failed!He was " << abs(difference) << " seconds slower." << endl;
+        cout << "No, he failed! He was " << abs(difference) << " seconds slower." << endl;
     }
     return 0;
 }
